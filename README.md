@@ -19,7 +19,7 @@ This project offers a robust and scalable M-Pesa API integration in Node.js/Expr
 
 ## 🛠️ Technologies Used  
 - **Node.js / Express.js**  
-- **MongoDB / MySQL** (for transaction logging)  
+- **MongoDB /** (for transaction logging)  
 - **Axios** (for API requests)  
 - **Dotenv** (for environment variables)  
 - **M-Pesa Daraja API**  
