@@ -1,26 +1,27 @@
 
-# 🚀 ReferralPro - Boost Your Growth with Powerful Referral Systems  
+# M-Pesa Integration Pro  
+🔗 **Simplify Mobile Payments with M-Pesa API Integration**  
 
-ReferralPro is a comprehensive referral management system designed to drive growth through word-of-mouth marketing. Empower users to refer and earn, increasing engagement and boosting sales effortlessly.  
+## 🚀 Project Overview  
+This project offers a robust and scalable M-Pesa API integration in Node.js/Express. Handle Lipa na M-Pesa Online (STK Push), C2B, B2C, and webhook callbacks with ease. Ideal for e-commerce platforms, service providers, and developers looking to automate mobile money transactions.
 
-## 🌟 Features  
-- **Intuitive Dashboard** – Monitor referrals and earnings with ease.  
-- **Customizable Rewards** – Define and manage referral rewards to suit your business needs.  
-- **Real-time Tracking** – Track referral performance with live analytics.  
-- **Automated Emails** – Notify users of successful referrals automatically.  
-- **Secure & Scalable** – Built using the latest MERN stack technologies.  
+---
 
-## 🛠️ Tech Stack  
-- **Frontend:** React, Redux, Axios, React Router  
-- **Backend:** Node.js, Express, MongoDB  
-- **Authentication:** JWT, bcrypt  
-- **Payments:** Paystack (Coming Soon)  
+## 📋 Features  
+- **STK Push** – Trigger payment requests directly to users' phones.  
+- **C2B (Customer to Business)** – Seamless customer payment processing.  
+- **B2C (Business to Customer)** – Automate payments from your business to clients.  
+- **Webhook Callbacks** – Receive and process payment notifications in real-time.  
+- **Secure** – Fully secure with OAuth 2.0 token generation.  
+- **Scalable** – Easy to extend and adapt to different business needs.  
 
-## 🎯 Why ReferralPro?  
-ReferralPro helps businesses:  
-- 🚀 Increase customer acquisition through referral programs  
-- 💡 Engage existing customers with incentives  
-- 📈 Gain insights with real-time analytics  
+---
 
-## 🚧 Project Structure  
-# Mpesa-Stk-Push
+## 🛠️ Technologies Used  
+- **Node.js / Express.js**  
+- **MongoDB / MySQL** (for transaction logging)  
+- **Axios** (for API requests)  
+- **Dotenv** (for environment variables)  
+- **M-Pesa Daraja API**  
+
+---
